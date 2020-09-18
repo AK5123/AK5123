@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/ak5123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohan-sundar-9881a7180/" height="30" width="30" /></a>
 </h3>
 
+<img align="right" alt="GIF" src="https://github.com/AK5123/AK5123/blob/master/animation_300_kf8qq65w.gif?raw=true" width="320" height="320" />
 
 - 🗣️ Active member of Facebook Developer circles, Ramco nuthouse and ChennaiJS 
 
