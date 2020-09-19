@@ -1,8 +1,8 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />, I'm KANDAVEL</h1>
 <h3 align="center">Aspiring full stack developer and veteran hackathon player</h3>
 <h3 align="center">
-<a href="https://kandavel.surge.sh" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/aa8a2b94014737.Y3JvcCwzMzY2LDI2MzMsMCww.png" alt="mohanpierce99" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/ak5123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohan-sundar-9881a7180/" height="30" width="30" /></a>
+<a href="https://kandavel.surge.sh" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/aa8a2b94014737.Y3JvcCwzMzY2LDI2MzMsMCww.png" alt="kandavel" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ak5123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ak5123/" height="30" width="30" /></a>
 </h3>
 
 <img align="right" alt="GIF" src="https://github.com/AK5123/AK5123/blob/master/animation_300_kf8qq65w.gif?raw=true" width="320" height="320" />
