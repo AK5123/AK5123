@@ -20,7 +20,7 @@
 
 ### My recent Mad Science projects
 
-🚀 CLI-React portfolio builder - Takes user details as JSON in and builds a beautiful React portfolio. Checkout the [demo](https://youtu.be/O7GDJ7d8MF0) video
+🚀 CLI-React portfolio builder - Takes user details as JSON in and builds a beautiful React portfolio. Checkout the [demo](https://youtu.be/O7GDJ7d8MF0) video. 
 https://github.com/ak5123/ReactFolio
 
 🚀 Sends and receives data through  ultrasonic waves using the web audio API in pure Javascript. Checkout the [demo](https://res.cloudinary.com/dqmbs2chk/video/upload/v1598886336/demo_obb9eg.mp4) video.
