@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/AK5123/AK5123/blob/master/animation_300_kf8qq65w.gif?raw=true" width="320" height="320" />
 
-- 🗣️ Active member of Facebook Developer circles, Ramco nuthouse and ChennaiJS 
+- 🗣️ Active member of Facebook Developer circles and ChennaiJS 
 
 - 💬 Ask me about **React  ReactNative  NodeJS**
 
