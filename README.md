@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **kanduarul@gmail.com**
 
-- 📝[Resume](https://github.com/AK5123/Resume/raw/master/Kandavel_Resume.pdf)
-
-
 - ⚡Proud of winning 11/15 Hackathons participated
 
 ### My recent Mad Science projects
