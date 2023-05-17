@@ -7,7 +7,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/AK5123/AK5123/blob/master/animation_300_kf8qq65w.gif?raw=true" width="320" height="320" />
 
-- Building [SwixDao](https://twitter.com/SwixDAO)
+- Founding Team [@Lines](https://www.linkedin.com/company/bylines/)
+
+- Ex Founding Team [@SwixDao](https://twitter.com/SwixDAO)
 
 - 💬 Ask me about **React  ReactNative  NodeJS**
 
