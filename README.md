@@ -1,7 +1,6 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />, I'm KANDAVEL</h1>
 <h3 align="center">Full stack Web3 developer </h3>
 <h3 align="center">
-<a href="https://kandavel.surge.sh" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/aa8a2b94014737.Y3JvcCwzMzY2LDI2MzMsMCww.png" alt="kandavel" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/ak5123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ak5123/" height="50" width="50" /></a>
 </h3>
 
