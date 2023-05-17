@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kanduarul@gmail.com**
 
-- ⚡Proud of winning 11/15 Hackathons participated
+- ⚡Proud of winning 12/20 Hackathons participated
 
 ### My recent Mad Science projects
 
